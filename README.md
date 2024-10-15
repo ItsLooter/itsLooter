@@ -8,4 +8,3 @@
             
     print("Coding Language:", AboutMe.coding_language())
     print("Operating System:", AboutMe.operating_system())
-    ```
