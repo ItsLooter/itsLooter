@@ -9,4 +9,4 @@
     print("Operating System:", AboutMe.operating_system())
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verticous&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" height="170em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLooter&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" height="170em" />
