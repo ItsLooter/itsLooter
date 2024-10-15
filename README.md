@@ -1,6 +1,9 @@
     class AboutMe:
-        coding_language = lambda: "Python"
-        operating_system = lambda: "Windows"
+        def coding_language():
+            return "Python"
+    
+        def operating_system():
+            return "Windows"
     
     print("Coding Language:", AboutMe.coding_language())
-    print("Operating System:", AboutMe.operating_system())
+    print("Operating System:", AboutMe.operating_system()) 
