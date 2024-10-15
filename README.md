@@ -1,4 +1,3 @@
-    ```python
     class AboutMe:
         def coding_language():
             return "Python"
